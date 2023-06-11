@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+
+  header, footer {
+    background-color:darkgray;
+  }
+
+  .site-title {
+    color:lightpink;
+  }
+
+  #my-image {
+    box-shadow: 0 0 2px 1px black;
+  }
+
+  .hobby ul {
+    list-style-type: square;
+  }
+
+  .hobby ul li:nth-child(odd) {
+    background-color:lightpink;
+  }
+
+  nav ul {
+    list-style-type: none;
+  }
+
+ a {
+    text-decoration: none;
+    background-color: lightblue;
+    border: 1px solid darkblue;
+  }
+
+   a:hover,
+  a:focus {
+  background-color: darkblue;
+  color: white;
+}
