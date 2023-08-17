@@ -165,23 +165,7 @@
     background-position: center;
   }
   
-  
-  
-  /* #vision .wrapper-vision a:link,
-  .wrapper-vision a:visited {
-    padding: .8em 1em;
-    background-color: rgb(34, 34, 34, .5);
-    color: white;
-    border-width: 1rem;
-    border-color:#c78c06;
-    text-decoration: none;
-    margin-top: .5rem;
-    border: solid #c78c06;
-    padding: 2rem;
-    font-size: 1.5rem;
-    margin: 1rem;
-    
-  } */
+
   
   
   .wrapper .services-grid article {
@@ -513,6 +497,8 @@
      #email, #fullname, #message {
         margin-bottom: 1rem;
      }
+
+     /* increase hieght of footer */
 
      footer {
         margin-top: 15px;
